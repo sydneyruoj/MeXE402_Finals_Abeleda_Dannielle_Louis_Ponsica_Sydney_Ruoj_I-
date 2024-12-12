@@ -2,7 +2,7 @@
 ## Topic: Converting Images to Grayscale
 Use the color space conversion code to convert RGB images to grayscale for basic image preprocessing.
 
-## 📊Dataset: [Outdoor CCTV Images](https://www.kaggle.com/datasets/ibrahimalobaid/day-and-night-image)
+## 📊Dataset: [Outdoor CCTV Images](https://www.kaggle.com/datasets/ibrahimalobaid/day-and-night-image) [Outdoor](https://universe.roboflow.com/nontawat-wuttikam/etc_prop_tag/dataset/1)
 
 ## 👋Introduction
 Converting Images to Grayscale is a fundamental preprocessing step in computer vision. Using the grayscale image, it simplifies the image data by reducing the number of color channels from three (RGB) *Red, Green, Blue* to one, making it easier to process and analyze. This technique is widely used in various applications, such as edge detection, object recognition, and image segmentation. Hence, this project highlights the use of converted grayscale images into outdoor surveillance camera images. For outdoor surveillance cameras, converting images to grayscale can help in detecting important details more easily.
