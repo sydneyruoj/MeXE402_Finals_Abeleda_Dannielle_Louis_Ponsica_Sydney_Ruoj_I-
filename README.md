@@ -111,16 +111,40 @@ cv2_imshow(gray)
 #### Image 2
 ![image](https://github.com/user-attachments/assets/ba7a4708-e955-4230-8f3f-37ad255f0899)
 
+#### Image 3
+![image](https://github.com/user-attachments/assets/af99fb31-f200-47b3-bdd6-f846cd23c139)
+#### Image 4
+![image](https://github.com/user-attachments/assets/d73afdab-8c9f-4678-9959-a1f84b77e6d4)
+#### Image 5
+![image](https://github.com/user-attachments/assets/6342fc18-86d4-4ef6-b9ec-854c6aa0648f)
+
+
+
 ### 📊Results
 #### Grayscale
 ##### Image 1
 ![image](https://github.com/user-attachments/assets/e2b3744f-d991-425a-a0ba-2f852fde6b8d)
 ##### Image 2
 ![image](https://github.com/user-attachments/assets/b7fcf5c6-ea6f-4c78-b53e-580f20082220)
+##### Image 3
+![image](https://github.com/user-attachments/assets/a953fe8d-b5b9-46e5-a14f-9dfd3e611f83)
+##### Image 4
+![image](https://github.com/user-attachments/assets/4ecc38cf-c249-4ed4-a871-02a688b8c871)
+##### Image 5
+![image](https://github.com/user-attachments/assets/ce9e52be-3089-420c-a48e-f3cea51aeb28)
+
+
 
 #### HSV
 ##### Image 1
 ![image](https://github.com/user-attachments/assets/6e2822ef-6be8-495c-bdbe-318868aacdea)
 ##### Image 2
 ![image](https://github.com/user-attachments/assets/4680fdd7-b6d2-4758-b15a-d7863318ff3b)
+##### Image 3
+![image](https://github.com/user-attachments/assets/2d17c594-786a-43df-b1e9-50490cd37958)
+##### Image 4
+![image](https://github.com/user-attachments/assets/503537e3-3b82-407f-b8d3-4c5e9a485db6)
+##### Image 5
+![image](https://github.com/user-attachments/assets/ce925bee-6eb2-4982-95ac-bfedd3cf6d5a)
+
 
